@@ -1,0 +1,208 @@
+html {
+    background-color: #F6F6F6;
+}
+
+h1 {
+    font-family: Times;
+    font-size: 45px;
+    line-height: 4.2;
+    letter-spacing: 3px;
+    color: #420000;
+    text-decoration: none;
+    font-weight: 800;
+    text-align: center;
+}
+
+#Titre1 {
+    font-family: Times;
+    font-size: 34px;
+    line-height: 2.2;
+    letter-spacing: 3px;
+    color: #420000;
+    text-align: center;
+}
+
+#Titre2 {
+    font-family: Times;
+    font-size: 34px;
+    line-height: 2.2;
+    letter-spacing: 3px;
+    color: #420000;
+}
+
+body {
+    font-family: Times;
+    font-size: 40px;
+    line-height: 0.2;
+    letter-spacing: 0px;
+    color: #0a0808cc;
+    text-decoration: none;
+    font-weight:300;
+    margin: auto;
+
+}
+
+a {
+    font-family: Times;
+    font-size: 26px;
+    line-height: 2;
+    letter-spacing: 1px;
+    text-decoration: none;
+    font-weight:600;
+    background-color: #515070;
+    color: #fff;
+    border-radius: 15%;
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
+a:hover {
+    color: black
+}
+
+li {
+    font-family: Times;
+    font-size: 24px;
+    line-height: 3.2;
+    letter-spacing: 2px;
+    display: inline;
+    padding: 0px 40px;
+
+}
+
+#div0 {
+   with: 1000px;
+   margin: 40px auto;
+   width: 700px;
+   margin: 40px auto;
+   box-shadow: 0px 10px 30px rgb(0,0,0,0.1);
+   background-color: #eae9e9;
+}
+
+#div1 {
+    width: 1300px;
+    margin: 40px auto;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0px 10px 30px rgb(0,0,0,0.1);
+    background-color: #eae9e9;
+    border-radius: 4%;
+}
+
+#div2 {
+   width: 700px;
+   margin: 50px 10px;
+   padding: 20px;
+   text-align: center;
+   box-shadow: 0px 10px 30px rgb(0,0,0,0.1);
+   background-color: #eae9e9;
+   border-radius: 4%;
+}
+
+#div3 {
+   width: 700px;
+   margin: 50px 10px;
+   padding: 20px;
+   text-align: center;
+   box-shadow: 0px 10px 30px rgb(0,0,0,0.1);
+   background-color: #eae9e9;
+   border-radius: 4%;
+}
+
+#div4 {
+   width: 700px;
+   margin: 50px 10px;
+   padding: 20px;
+   text-align: center;
+   box-shadow: 0px 10px 30px rgb(0,0,0,0.1);
+   background-color: #eae9e9;
+   border-radius: 4%;
+}
+
+#div5 {
+   width: 700px;
+   margin: 50px 10px;
+   padding: 20px;
+   text-align: center;
+   box-shadow: 0px 10px 30px rgb(0,0,0,0.1);
+   background-color: #eae9e9;
+   border-radius: 4%;
+}
+
+#div6 {
+   width: 1100px;
+   height: 280px;
+   margin: 40px auto;
+   text-align: center;
+   box-shadow: 0px 10px 30px rgb(0,0,0,0.1);
+   background-color: #eae9e9;
+   border-radius: 4%;
+}
+
+#photos{
+    text-align: center;
+}
+
+
+#img-size{
+    height: 500px;
+}
+
+#img-size2{
+    height: 500px;
+    width: 666.66px;
+}
+
+
+.img-top {
+    display: inline-block;
+}
+
+.img-bottom {
+    display: inline-block;
+}
+
+.BordureCentrage {
+    border-radius: 5%
+}
+
+#Titre{
+    background-color: #d4d7dd;
+    color: #fff;
+    font: italic smaller sans-serif;
+    padding: 3px;
+    text-align: center;
+    width: fit-content;
+    margin: auto;
+    font-size: 25px;
+}
+
+.Text1{
+   font-size: 25px;
+}
+
+@media (max-width: 960px) {
+  /* For a screen < 960px, this CSS will be read */
+  .container {
+    width: 700px;
+  }
+}
+@media (max-width: 720px) {
+  /* For a screen < 720px, this CSS will be read */
+  .container {
+    width: 500px;
+  }
+}
+@media (max-width: 540px) {
+  /* For a screen < 540px, this CSS will be read */
+  .container {
+    width: 300px;
+  }
+}
+
+
+
+
+
+
+
